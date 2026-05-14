@@ -1,4 +1,15 @@
-![JooHo Lee](https://capsule-render.vercel.app/api?type=blur&height=170&color=0:111827,100:3A7D7C&text=JooHo%20Lee&desc=Graph%20Learning%20%7C%20LLM%20Systems%20%7C%20Medical%20AI&fontColor=ffffff&fontSize=42&descSize=16&fontAlignY=42&descAlignY=65&animation=fadeIn)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BWAAEEEK&theme=nord_dark" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BWAAEEEK&theme=nord_dark&exclude=Jupyter%20Notebook" alt="Most committed languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BWAAEEEK&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
 
 ### About me
 
