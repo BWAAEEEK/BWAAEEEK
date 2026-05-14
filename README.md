@@ -12,6 +12,10 @@ I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher working across languag
 - I am currently focused on LLM systems: reasoning workflows, agent architecture, tool-use reliability, and evaluation loops.
 - I prefer systems that start from a clear problem definition and can be inspected, measured, and improved over time.
 
+### Open Source
+
+- Merged contributions to [`vllm-project/vllm`](https://github.com/vllm-project/vllm)
+
 ### Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BWAAEEEK&bg_color=00000000&color=d1d5db&title_color=f3f4f6&line=60a5fa&point=93c5fd&area=true&area_color=1d4ed8&hide_border=true&radius=12&height=260&custom_title=Recent%20Activity" alt="Recent contribution activity" width="100%" />
