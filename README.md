@@ -1,52 +1,51 @@
-<p align="center">
-  <img src="assets/profile-map.svg" alt="JooHo Lee - LLM systems, agent architecture, evaluation loops, and reliability" width="100%">
-</p>
-
 # JooHo Lee
 
-AI engineer and researcher working on LLM systems, agent architecture, reasoning workflows, and evaluation design.
+I build and study language-model systems with an emphasis on reliability, evaluation, and maintainable engineering.
 
-I work on systems where model capability is only one part of the problem. The rest is task definition, system boundary, failure visibility, and evidence of improvement.
+My work usually sits between research prototypes and usable developer tools: defining tasks clearly, making failure modes observable, and turning experiments into systems that can be tested and improved.
 
-## Focus Map
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,tensorflow,git,github,linux,md&theme=light&perline=8" alt="Python, PyTorch, scikit-learn, TensorFlow, Git, GitHub, Linux, Markdown" />
+</p>
 
-```text
-Problem Framing
-  -> Reasoning Design
-  -> Agent Architecture
-  -> Evaluation Loops
-  -> Tool-use Reliability
-  -> Maintainable Systems
-```
+## Current Focus
 
-Prompts, tools, memory, orchestration, and evaluation are treated as one system. I prefer designs that can be explained, tested, debugged, and improved without relying on intuition alone.
+- Evaluation pipelines for LLM-based workflows
+- Tool-using systems with explicit state and recovery paths
+- Retrieval and context designs that remain inspectable
+- PyTorch implementations for model architecture study
+- Practical bridges between research ideas and working software
 
-## Working Areas
+## Featured Work
 
-- Agent loops with explicit state, tools, recovery, and feedback
-- Evaluation pipelines for reasoning-heavy and failure-prone workflows
-- Context, memory, and retrieval designs that remain inspectable
-- Tool-use reliability across planning, execution, validation, and recovery
-- Human-in-the-loop systems where uncertainty is surfaced, not hidden
-- Research-to-implementation loops that preserve both experimental flexibility and engineering discipline
-
-## Engineering Principles
-
-- Measure behavior before trusting capability.
-- Make assumptions and failure modes visible.
-- Design evaluation loops before scaling a workflow.
-- Keep architectures simple until complexity is justified.
-- Optimize for correctness, maintainability, and evidence, not only speed.
-- Build systems that can improve through inspection and iteration.
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/BWAAEEEK/Transformer-Implementation-Pytorch">
+        <img src="https://socialify.git.ci/BWAAEEEK/Transformer-Implementation-Pytorch/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Light" alt="Transformer-Implementation-Pytorch" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/BWAAEEEK/BERT_pytorch">
+        <img src="https://socialify.git.ci/BWAAEEEK/BERT_pytorch/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Light" alt="BERT_pytorch" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Selected Repositories
 
-- [`Transformer-Implementation-Pytorch`](https://github.com/BWAAEEEK/Transformer-Implementation-Pytorch): educational PyTorch implementation of the Transformer architecture
-- [`BERT_pytorch`](https://github.com/BWAAEEEK/BERT_pytorch): minimal PyTorch implementation and experiments with BERT-style language modeling
-- [`NeuroMarketing-with-GNN`](https://github.com/BWAAEEEK/NeuroMarketing-with-GNN): graph neural network experiments for neuromarketing and behavior prediction
-- [`Neural_Collaborative_Filtering`](https://github.com/BWAAEEEK/Neural_Collaborative_Filtering): PyTorch implementation of neural collaborative filtering for recommendation tasks
-- [`FontRecSys`](https://github.com/BWAAEEEK/FontRecSys): font recommendation experiments using machine learning and representation learning
-- [`Blog_post_embedding`](https://github.com/BWAAEEEK/Blog_post_embedding): data collection and semantic embedding experiments for blog post representation
+Additional public work:
+[`NeuroMarketing-with-GNN`](https://github.com/BWAAEEEK/NeuroMarketing-with-GNN),
+[`Neural_Collaborative_Filtering`](https://github.com/BWAAEEEK/Neural_Collaborative_Filtering),
+[`FontRecSys`](https://github.com/BWAAEEEK/FontRecSys),
+[`Blog_post_embedding`](https://github.com/BWAAEEEK/Blog_post_embedding),
+[`IMDB_Transformer_pytorch`](https://github.com/BWAAEEEK/IMDB_Transformer_pytorch),
+[`pheme_dataset_preprocessing`](https://github.com/BWAAEEEK/pheme_dataset_preprocessing).
+
+## Notes
+
+I prefer simple systems that expose their assumptions, can be evaluated directly, and are easy to revise when evidence changes.
 
 ## Contact
 
