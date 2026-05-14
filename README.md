@@ -1,52 +1,31 @@
-# JooHo Lee
-
-I build and study language-model systems with an emphasis on reliability, evaluation, and maintainable engineering.
-
-My work usually sits between research prototypes and usable developer tools: defining tasks clearly, making failure modes observable, and turning experiments into systems that can be tested and improved.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,tensorflow,git,github,linux,md&theme=light&perline=8" alt="Python, PyTorch, scikit-learn, TensorFlow, Git, GitHub, Linux, Markdown" />
-</p>
-
-## Current Focus
-
-- Evaluation pipelines for LLM-based workflows
-- Tool-using systems with explicit state and recovery paths
-- Retrieval and context designs that remain inspectable
-- PyTorch implementations for model architecture study
-- Practical bridges between research ideas and working software
-
-## Featured Work
-
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/BWAAEEEK/Transformer-Implementation-Pytorch">
-        <img src="https://socialify.git.ci/BWAAEEEK/Transformer-Implementation-Pytorch/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Light" alt="Transformer-Implementation-Pytorch" width="100%" />
-      </a>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BWAAEEEK&theme=github" alt="GitHub stats" />
     </td>
-    <td width="50%">
-      <a href="https://github.com/BWAAEEEK/BERT_pytorch">
-        <img src="https://socialify.git.ci/BWAAEEEK/BERT_pytorch/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Light" alt="BERT_pytorch" width="100%" />
-      </a>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BWAAEEEK&theme=github&exclude=Jupyter%20Notebook" alt="Most committed languages" />
     </td>
   </tr>
 </table>
 
-## Selected Repositories
+### About me
 
-Additional public work:
-[`NeuroMarketing-with-GNN`](https://github.com/BWAAEEEK/NeuroMarketing-with-GNN),
-[`Neural_Collaborative_Filtering`](https://github.com/BWAAEEEK/Neural_Collaborative_Filtering),
-[`FontRecSys`](https://github.com/BWAAEEEK/FontRecSys),
-[`Blog_post_embedding`](https://github.com/BWAAEEEK/Blog_post_embedding),
-[`IMDB_Transformer_pytorch`](https://github.com/BWAAEEEK/IMDB_Transformer_pytorch),
-[`pheme_dataset_preprocessing`](https://github.com/BWAAEEEK/pheme_dataset_preprocessing).
+I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher interested in language-model systems, evaluation, and reliable tool-using workflows.
 
-## Notes
+- I care about defining problems clearly before optimizing systems.
+- I prefer workflows that expose assumptions, failure modes, and evidence of improvement.
+- I work around LLM systems, agent architecture, reasoning design, and research-oriented PyTorch implementations.
 
-I prefer simple systems that expose their assumptions, can be evaluated directly, and are easy to revise when evidence changes.
+### Skills
 
-## Contact
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+### Contact
 
 - GitHub: [@BWAAEEEK](https://github.com/BWAAEEEK)
