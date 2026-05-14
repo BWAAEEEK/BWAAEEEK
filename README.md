@@ -11,11 +11,11 @@
 
 ### About me
 
-I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher interested in language-model systems, evaluation, and reliable tool-using workflows.
+I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher working across language-model systems, graph learning, recommendation systems, and medical AI.
 
-- I care about defining problems clearly before optimizing systems.
-- I prefer workflows that expose assumptions, failure modes, and evidence of improvement.
-- I work around LLM systems, agent architecture, reasoning design, and research-oriented PyTorch implementations.
+- My work includes graph neural networks for forecasting and recommendation, representation learning with transformer-based models, and image-to-image translation for medical imaging.
+- I am currently focused on LLM systems: reasoning workflows, agent architecture, tool-use reliability, and evaluation loops.
+- I prefer systems that start from a clear problem definition and can be inspected, measured, and improved over time.
 
 ### Skills
 
