@@ -1,7 +1,7 @@
-<h1 align="center">JooHo Lee</h1>
+<h1 align="center">BWAAEEEK</h1>
 
 <p align="center">
-AI engineer and researcher working across graph learning, LLM systems, recommendation systems, and medical AI.
+graphs, models, and systems that should survive inspection.
 </p>
 
 ### About
@@ -14,13 +14,13 @@ I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher working across languag
 
 ### Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BWAAEEEK&bg_color=00000000&color=4b5563&title_color=111827&line=2563eb&point=2563eb&area=true&area_color=bfdbfe&hide_border=true&radius=12&height=260&custom_title=Recent%20Activity" alt="Recent contribution activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BWAAEEEK&bg_color=00000000&color=d1d5db&title_color=f3f4f6&line=60a5fa&point=93c5fd&area=true&area_color=1d4ed8&hide_border=true&radius=12&height=260&custom_title=Recent%20Activity" alt="Recent contribution activity" width="100%" />
 
 ### Snapshot
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BWAAEEEK&theme=transparent" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BWAAEEEK&theme=transparent&exclude=Jupyter%20Notebook" alt="Most committed languages" />
+  <img src="https://readme-stats-github.pages.dev/api?username=BWAAEEEK&theme=transparent&hide_border=true&title_color=f3f4f6&text_color=d1d5db&icon_color=60a5fa&ring_color=60a5fa" alt="GitHub stats" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=BWAAEEEK&layout=compact&theme=transparent&hide_border=true&title_color=f3f4f6&text_color=d1d5db" alt="Most committed languages" />
 </p>
 
 ### Skills
