@@ -1,4 +1,4 @@
-<h1 align="center">BWAAEEEK</h1>
+<h1 align="center">JOOHO LEE</h1>
 
 <p align="center">
 graphs, models, and systems that should survive inspection.
