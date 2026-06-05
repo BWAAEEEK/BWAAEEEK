@@ -14,8 +14,7 @@ I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher working across languag
 
 ### Open Source
 
-- Merged PRs: [`vllm-project/vllm#41714`](https://github.com/vllm-project/vllm/pull/41714), [`vllm-project/vllm#42233`](https://github.com/vllm-project/vllm/pull/42233), [`BerriAI/litellm#29660`](https://github.com/BerriAI/litellm/pull/29660), [`NSLab-CUK/Connector#9`](https://github.com/NSLab-CUK/Connector/pull/9)
-- Open PRs: [`vllm-project/vllm#42478`](https://github.com/vllm-project/vllm/pull/42478), [`sgl-project/sglang#26199`](https://github.com/sgl-project/sglang/pull/26199), [`pyg-team/pytorch_geometric#10680`](https://github.com/pyg-team/pytorch_geometric/pull/10680), [`pyg-team/pytorch_geometric#10685`](https://github.com/pyg-team/pytorch_geometric/pull/10685), [`mahmoodlab/TRIDENT#213`](https://github.com/mahmoodlab/TRIDENT/pull/213)
+- Contributed to [`vllm-project/vllm`](https://github.com/vllm-project/vllm), [`BerriAI/litellm`](https://github.com/BerriAI/litellm), and [`NSLab-CUK/Connector`](https://github.com/NSLab-CUK/Connector).
 
 ### Activity
 
