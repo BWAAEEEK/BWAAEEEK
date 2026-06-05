@@ -9,12 +9,13 @@ graphs, models, and systems that should survive inspection.
 I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher working across language-model systems, graph learning, recommendation systems, and medical AI.
 
 - My work includes graph neural networks for forecasting and recommendation, representation learning with transformer-based models, and image-to-image translation for medical imaging.
-- I am currently focused on LLM systems: reasoning workflows, agent architecture, tool-use reliability, and evaluation loops.
+- I am currently focused on LLM systems: inference reliability, routing behavior, reasoning workflows, agent architecture, and evaluation loops.
 - I prefer systems that start from a clear problem definition and can be inspected, measured, and improved over time.
 
 ### Open Source
 
-- Merged contributions to [`vllm-project/vllm`](https://github.com/vllm-project/vllm)
+- Merged contributions to [`vllm-project/vllm`](https://github.com/vllm-project/vllm), focused on multimodal inference, audio processing, and CUDA graph profiling.
+- Merged contribution to [`BerriAI/litellm`](https://github.com/BerriAI/litellm), improving Hugging Face embedding usage accounting.
 
 ### Activity
 
