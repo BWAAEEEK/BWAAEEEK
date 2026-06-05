@@ -14,7 +14,7 @@ I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher working across languag
 
 ### Open Source
 
-- Contributed to [`vllm-project/vllm`](https://github.com/vllm-project/vllm), [`BerriAI/litellm`](https://github.com/BerriAI/litellm), and [`NSLab-CUK/Connector`](https://github.com/NSLab-CUK/Connector).
+- Contributed to [`vllm-project/vllm`](https://github.com/vllm-project/vllm) and [`BerriAI/litellm`](https://github.com/BerriAI/litellm).
 
 ### Activity
 
