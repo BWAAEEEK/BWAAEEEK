@@ -14,8 +14,8 @@ I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher working across languag
 
 ### Open Source
 
-- Merged contributions to [`vllm-project/vllm`](https://github.com/vllm-project/vllm), focused on multimodal inference, audio processing, and CUDA graph profiling.
-- Merged contribution to [`BerriAI/litellm`](https://github.com/BerriAI/litellm), improving Hugging Face embedding usage accounting.
+- [`vllm-project/vllm`](https://github.com/vllm-project/vllm): [#41714](https://github.com/vllm-project/vllm/pull/41714), [#42233](https://github.com/vllm-project/vllm/pull/42233)
+- [`BerriAI/litellm`](https://github.com/BerriAI/litellm): [#29660](https://github.com/BerriAI/litellm/pull/29660)
 
 ### Activity
 
