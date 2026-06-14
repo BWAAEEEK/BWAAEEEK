@@ -6,9 +6,9 @@ graphs, models, and systems that should survive inspection.
 
 ### About
 
-I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher working across language-model systems, graph learning, recommendation systems, and medical AI.
+I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher working across language-model systems, graph learning, recommendation systems, and computational pathology.
 
-- My work includes graph neural networks for forecasting and recommendation, representation learning with transformer-based models, and image-to-image translation for medical imaging.
+- My work includes graph neural networks for forecasting and recommendation, representation learning with transformer-based models, and WSI-based computational pathology with multiple-instance learning.
 - I am currently focused on LLM systems: inference reliability, routing behavior, reasoning workflows, agent architecture, and evaluation loops.
 - I prefer systems that start from a clear problem definition and can be inspected, measured, and improved over time.
 
@@ -22,7 +22,7 @@ I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher working across languag
 
 ### Skills
 
-`Python` `PyTorch` `Hugging Face` `Graph Learning` `LLM Systems` `Medical AI`
+`Python` `PyTorch` `Hugging Face` `Graph Learning` `LLM Systems` `Computational Pathology` `MIL`
 
 ### Contact
 
