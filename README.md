@@ -1,28 +1,26 @@
 <h1 align="center">JOOHO LEE</h1>
 
 <p align="center">
-graphs, models, and systems that should survive inspection.
+LLM inference, serving, and systems that should survive inspection.
 </p>
 
 ### About
 
-I'm JooHo Lee (`BWAAEEEK`), an AI engineer and researcher working across language-model systems, graph learning, recommendation systems, and computational pathology.
+I'm Jooho Lee (`BWAAEEEK`), an AI engineer and researcher focused on LLM inference performance, serving reliability, on-premise deployment, and RAG systems.
 
-- My work includes graph neural networks for forecasting and recommendation, representation learning with transformer-based models, and WSI-based computational pathology with multiple-instance learning.
-- I am currently focused on LLM systems: inference reliability, routing behavior, reasoning workflows, agent architecture, and evaluation loops.
+- My systems work spans Triton kernels, quantized inference, CUDA Graphs, speculative decoding, multimodal streaming, and repository-level context generation.
+- I build enterprise on-premise AI products at SLEXN and also work across graph learning and computational pathology.
 - I prefer systems that start from a clear problem definition and can be inspected, measured, and improved over time.
 
 ### Open Source
 
-- Contributed to [`vllm-project/vllm`](https://github.com/vllm-project/vllm) and [`BerriAI/litellm`](https://github.com/BerriAI/litellm).
-
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BWAAEEEK&bg_color=00000000&color=d1d5db&title_color=f3f4f6&line=60a5fa&point=93c5fd&area=true&area_color=1d4ed8&hide_border=true&radius=12&height=260&custom_title=Recent%20Activity" alt="Recent contribution activity" width="100%" />
+- **[vLLM](https://github.com/vllm-project/vllm)** — [Triton sparse GELU](https://github.com/vllm-project/vllm/pull/48498), [CuTe-DSL MXFP4](https://github.com/vllm-project/vllm/pull/48417), [speculative decoding scheduling](https://github.com/vllm-project/vllm/pull/48341), [Qwen3-ASR streaming](https://github.com/vllm-project/vllm/pull/42478), [audio resampling](https://github.com/vllm-project/vllm/pull/42233), [encoder CUDA Graph profiling](https://github.com/vllm-project/vllm/pull/41714)
+- **[LiteLLM](https://github.com/BerriAI/litellm)** — [Hugging Face embedding usage](https://github.com/BerriAI/litellm/pull/29660)
+- **[SGLang](https://github.com/sgl-project/sglang)** — [Gemma3 RoPE handling](https://github.com/sgl-project/sglang/pull/26199)
 
 ### Skills
 
-`Python` `PyTorch` `Hugging Face` `Graph Learning` `LLM Systems` `Computational Pathology` `MIL`
+`Python` `PyTorch` `Triton` `vLLM` `SGLang` `CUDA Graphs` `CuTe-DSL` `RAG` `Computational Pathology`
 
 ### Contact
 
