@@ -9,7 +9,7 @@ LLM inference, serving, and systems that should survive inspection.
 I'm Jooho Lee (`BWAAEEEK`), an AI engineer and researcher focused on LLM inference performance, serving reliability, on-premise deployment, and RAG systems.
 
 - My systems work spans Triton kernels, quantized inference, CUDA Graphs, speculative decoding, multimodal streaming, and repository-level context generation.
-- I build enterprise on-premise AI products at SLEXN and also work across graph learning and computational pathology.
+- I work as an AI / LLM systems engineer, building enterprise on-premise AI products while also working across graph learning and computational pathology.
 - I prefer systems that start from a clear problem definition and can be inspected, measured, and improved over time.
 
 ### Open Source
